@@ -13,7 +13,7 @@ void main(List<String> arguments) {
   dataEmployee[2].gaji = 45000000;
 
   dataEmployee[1].address = "Bandung Timur, Jawa Barat Indonesia";
-  dataEmployee[2].address = "Jl. Sukamenak No. 111b Kab. Bandung";
+  dataEmployee[2].address = "Jl. cigondewah no 1";
 
   for (var staff in dataEmployee) {
     print(staff.deskripsi());
